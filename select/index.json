@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "WARUNORI",
+  "base_artist": "DURDN",
+  "createdAt": "2026-02-14T06:37:43.551798Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "WARUNORI",
+      "artist": "DURDN",
+      "has_synced": true,
+      "path": "select/01_WARUNORI_DURDN.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "WARUNORI",
+      "artist": "DURDN",
+      "has_synced": false,
+      "path": "select/pl_01_WARUNORI_DURDN.txt"
+    }
+  ]
+}
